@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on alx
-- 📫 How to reach me ...
+- 📫 How to reach me via github
 
 <!---
 emanhamgmail/emanhamgmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
